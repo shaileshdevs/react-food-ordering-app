@@ -1,2 +1,2 @@
-# react-food-ordering-app
-Food Ordering App In React
+# React Food Ordering App
+It is under development.
